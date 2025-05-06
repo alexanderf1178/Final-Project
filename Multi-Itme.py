@@ -2,7 +2,7 @@ import requests
 import pandas as pd
 from datetime import datetime, timezone
 
-API_KEY = "45kpvfidpbdc7jhfvod2duokk519rlcptohortto2duqpi8jcij9027tvn671i0p"
+API_KEY = "xxxxxxxxx"
 url = "https://api.keepa.com/product"
 
 # List of ASINs to fetch data
